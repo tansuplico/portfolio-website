@@ -1,0 +1,17 @@
+#root {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background-color: #111111;
+}
