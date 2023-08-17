@@ -7,7 +7,7 @@ import { motion } from "framer-motion";
 const About = forwardRef((_, ref) => {
   return (
     <div
-      className="w-[90%] pt-[10rem] pb-[5rem] flex flex-col justify-center items-center "
+      className="w-[90%] pt-[1rem] md:pt-[5rem] lg:pt-[7rem] xl:pt-[10rem] pb-[5rem] flex flex-col justify-center items-center "
       ref={ref}
     >
       <h1 className="text-center text-[2.5rem] font-bold mb-[2rem]">

@@ -28,7 +28,7 @@ const Home = forwardRef((_, ref) => {
             Iloilo City, Philippines.
           </p>
 
-          <div className="flex gap-5 mt-[20px]">
+          <div className="flex gap-5 mt-[20px] justify-center items-center lg:justify-start">
             <a
               href="https://www.facebook.com/tristan.bautistasuplico/"
               target="_blank"

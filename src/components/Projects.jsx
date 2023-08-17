@@ -34,9 +34,11 @@ const Projects = forwardRef((_, ref) => {
               Starbucks Clone
             </h1>
             <p className="text-[#BEBFC5] mb-[30px]">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio
-              corrupti, magnam quibusdam illum eum voluptatum dolor repudiandae
-              perferendis laborum. Aut praesentium deleniti
+              A front-end website clone of a popular coffee company, which
+              includes a complete user interface (UI) and user experience (UX)
+              design. The website is visually appealing and easy to use, and it
+              provides users with a seamless experience when viewing coffee and
+              other products.
             </p>
 
             <div className="w-full grid grid-cols-2 sm:grid-cols-3  gap-5">
@@ -72,9 +74,10 @@ const Projects = forwardRef((_, ref) => {
           <div className="w-full mt-[20px] p-5 flex flex-col justify-center items-start">
             <h1 className="text-[1.5rem] font-bold mb-[15px] ">Vacay.com</h1>
             <p className="text-[#BEBFC5] mb-[30px]">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio
-              corrupti, magnam quibusdam illum eum voluptatum dolor repudiandae
-              perferendis laborum. Aut praesentium deleniti
+              An original hotel booking website with a minimalistic design and a
+              complete user interface (UI) and user experience (UX) design. The
+              website is easy to use and navigate, and it provides users with
+              all the information they need to book a hotel room.
             </p>
 
             <div className="w-full grid grid-cols-2 sm:grid-cols-3  gap-5">
